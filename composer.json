@@ -59,6 +59,9 @@
     "optimize-autoloader": true,
     "preferred-install": "dist",
     "sort-packages": true,
+    "github-oauth": {
+      "github.com" : "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"
+    },
     "allow-plugins": {
       "pestphp/pest-plugin": true,
       "php-http/discovery": true
